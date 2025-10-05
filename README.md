@@ -1,1 +1,1 @@
-# Magasprog2-gyak
+OOP gyakorlás
